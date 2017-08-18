@@ -1,11 +1,7 @@
 # github-dashboard
 
 
-
-
-
-
-Dashboard to supervise Github activity of a set of developpers on a given repository . 
+Dashboard pour superviser les activités Github d'un groupe de développeurs à un repo donné .  
 
 Il s'agit d'une application web permettant de :
 
